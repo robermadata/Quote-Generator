@@ -62,5 +62,5 @@ twitterBtn.addEventListener("click", function generatetweet() {
 });
 
 newQuoteBtn.addEventListener("click", function generateQuote() {
-  newQuote();
+  getQuotes();
 });
